@@ -1,2 +1,2 @@
 # K2-UpdateEventRunAsCredential
-Sample to update Server Events Run As credential in K2 Workspace
+Sample codes to update K2 SERVER EVENT RUN AS API [http://codecodecode.ninja/2015/07/k2-server-event-run-as-api/]
